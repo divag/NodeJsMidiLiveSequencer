@@ -1,4 +1,4 @@
-# NodeJsMidiLiveSequencer
+# NodeJs Midi Live Sequencer
 A MIDI Sequencer by ear, running on Raspberry Pi, coded in NodeJS, firstly done for my personal use. 
 Let's share it !
 
